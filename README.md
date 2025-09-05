@@ -1,7 +1,7 @@
 ## Hi!, I'm Georgios 
 
 # 💫 About Me:
-🔭 I’m currently working on Password Generator<br>
+🔭 I’m currently working on a Password Generator<br>
 👯 I’m looking to collaborate on A Game Project<br>
 🤝 I’m looking for help with Java/Lua<br>
 🌱 I’m currently learning Python<br>
